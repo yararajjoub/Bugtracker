@@ -1,12 +1,12 @@
 # Bugtracker
 
-https://github.com/JSGHagman/Bugtracker
+This project, developed by me and three classmates during a university course "DA336A", introduces our BugTracker application. The application is designed to streamline the process of reporting and managing bugs that arise in code by creating individual tickets for each bug.
+------------------------------------------------------------------
+Klona repot
 
-klona repot
+Kör main
 
-kör main
-
-tack.
+Tack.
 
 OBS. Om ni skulle få problem med att köra programmet och få ett felmeddelande i stil med:
 
